@@ -9,6 +9,7 @@ public class ControlFlow {
         }
 
         int count = 19;
+        String name = "Mouse";
 
 
         if (count < 5) {
